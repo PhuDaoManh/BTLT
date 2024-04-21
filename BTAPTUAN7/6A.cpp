@@ -9,4 +9,4 @@ int main(int argc, const char * argv[]) {
 	}
 	return 0;
 }
- //C:\Users\daoma\Documents\BTLT\BTAPTUAN7\6A.exe_
+ C:\Users\daoma\Documents\BTLT\BTAPTUAN7
