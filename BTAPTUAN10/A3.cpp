@@ -10,6 +10,7 @@ a[9] = '\0';
 cerr <<"a: " << "-" << a << "-" << endl;
 cerr <<"c: " << "-" << c << "-" << endl;
 delete c;//khong xoa dung con tro duoc cap phat dong
+delete c;//không xóa đúng con trỏ được cấp phát động
 cerr << "a after deleting c:" << "-" << a << "-" << endl;
 
 }
